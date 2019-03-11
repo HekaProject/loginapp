@@ -547,7 +547,6 @@
     <Content Include="Node\node_modules\utils-merge\index.js" />
     <Content Include="Node\node_modules\vary\index.js" />
     <Content Include="Node\server.js" />
-    <Content Include="server.js" />
     <Content Include="V.ico" />
     <Content Include="X.ico" />
   </ItemGroup>
